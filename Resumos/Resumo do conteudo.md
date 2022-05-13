@@ -1,32 +1,33 @@
 
-## Resumo de codigos mais utilizados no github
+# Resumo de codigos mais utilizados no github   
 
-### Clonando conteúdo.
+
+## Clonando conteúdo.
 
 git clone + **link https.://git.............**
 
 
-### Salvando um arquivo ou pasta para commit.
+## Salvando um arquivo ou pasta para commit.
 
-git add
-git add .
-git add -a
-git add *
-
-
-### Verificando se há arquivos ou pastas para commitar.
-
-git status
+- git add
+- git add .
+- git add -a
+- git add *
 
 
-### Comitando um arquivo para ser enviado ao servidor remoto.
+## Verificando se há arquivos ou pastas para commitar.
 
-git commit -m "Descrição referente a alterações no codigo"
+- git status
 
 
-### Subindo commit do servidor local para o servidor remoto.
+## Comitando um arquivo para ser enviado ao servidor remoto.
 
-git push origin + **a branch que estará usando**
+- git commit -m "Descrição referente a alterações no codigo"
+
+
+## Subindo commit do servidor local para o servidor remoto.
+
+- git push origin + **a branch que estará usando**
 
 
 
